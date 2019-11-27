@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￥ﾭﾦ￤ﾹﾠ￧ﾔﾵ￨ﾄﾑ
+Implementation-Vendor-Id: com.kawa
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/jd/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

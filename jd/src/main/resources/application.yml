@@ -1,0 +1,17 @@
+server: 
+  port: 8080
+spring: 
+  application:  
+    name: jd_phone #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.10.186:3306/jd?useUnicode=true&amp;characterEncoding=UTF8
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true
+    generate-ddl: true
+    hibernate: 
+      ddl-auto: update
+      naming_strategy: org.hibernate.cfg.ImprovedNamingStrategy
